@@ -25,7 +25,7 @@ function Stats() {
   return (
     <section className="pt-4 pb-12 xl:pt-0 xl:pb-4">
       <div className="container mx-auto">
-        <div className="flex flex-wrap max-[490px]:flex-col gap-6 max-w-[80vw] mx-auto xl:max-w-none">
+        <div className="flex flex-wrap max-[490px]:flex-col gap-6 max-w-[80vw] max-[490px]:max-w-[184px] mx-auto xl:max-w-none">
           {stats.map((item, index) => {
             return (
               <div
