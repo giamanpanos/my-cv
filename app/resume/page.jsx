@@ -115,68 +115,78 @@ const education = {
   items: [
     {
       institution: "Udemy",
-      degree: "Next.js 15 & React - The Complete Guide",
-      duration: "11/2024 - 01/2025",
+      degree: "Tailwind CSS 3",
+      duration: "01/2025 - 04/2025",
+    },
+    {
+      institution: "Udemy",
+      degree: "Unlock WordPress Power",
+      duration: "04/2024 - 07/2024",
+    },
+    {
+      institution: "Udemy",
+      degree: "Next.js 14 & React - The Complete Guide",
+      duration: "11/2023 - 01/2024",
     },
     {
       institution: "Udemy",
       degree: "Understanding TypeScript",
-      duration: "10/2024 - 11/2024",
+      duration: "10/2023 - 11/2023",
     },
     {
       institution: "Udemy",
       degree: "The Ultimate React Course 2024",
-      duration: "05/2024 - 09/2024",
+      duration: "05/2023 - 09/2023",
     },
     {
       institution: "CodeCademy",
       degree: "Front-End Engineer",
-      duration: "11/2023 - 04/2024",
+      duration: "11/2022 - 04/2023",
     },
     {
       institution: "Team Treehouse",
       degree: "Front End Web Development",
-      duration: "05/2023 - 10/2023",
+      duration: "05/2022 - 10/2022",
     },
     {
       institution: "Udemy",
       degree: "The Complete JavaScript Course 2025",
-      duration: "01/2023 - 04/2022",
+      duration: "01/2022 - 04/2022",
     },
     {
       institution: "Udemy",
       degree: "The Modern Flexbox, Grid, Sass & Animations",
-      duration: "09/2022 - 11/2022",
+      duration: "09/2021 - 11/2021",
     },
     {
       institution: "Udemy",
       degree: "Master Modern JavaScript by Building 50 Projects",
-      duration: "01/2021 - 04/2022",
+      duration: "01/2021 - 04/2021",
     },
     {
       institution: "Udemy",
       degree: "50 Projects In 50 Days - HTML, CSS & JavaScript",
-      duration: "08/2021 - 11/2021",
+      duration: "08/2020 - 11/2020",
     },
     {
       institution: "Udemy",
       degree: "JavaScript Developer Bootcamp",
-      duration: "03/2021 - 07/2021",
+      duration: "03/2020 - 07/2020",
     },
     {
       institution: "Udemy",
       degree: "Become a WordPress Developer",
-      duration: "10/2020 - 02/2021",
+      duration: "10/2019 - 02/2020",
     },
     {
       institution: "Udemy",
       degree: "Advanced CSS and Sass",
-      duration: "06/2020 - 09/2020",
+      duration: "06/2019 - 09/2019",
     },
     {
       institution: "Udemy",
       degree: "The Complete Web Development Course",
-      duration: "12/2019 - 05/2020",
+      duration: "12/2018 - 05/2019",
     },
     {
       institution: "Growthrocks",
