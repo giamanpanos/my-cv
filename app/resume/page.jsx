@@ -135,7 +135,7 @@ const education = {
     },
     {
       institution: "Udemy",
-      degree: "The Ultimate React Course 2024",
+      degree: "The Ultimate React Course",
       duration: "05/2023 - 09/2023",
     },
     {
@@ -150,7 +150,7 @@ const education = {
     },
     {
       institution: "Udemy",
-      degree: "The Complete JavaScript Course 2025",
+      degree: "The Complete JavaScript Course",
       duration: "01/2022 - 04/2022",
     },
     {
