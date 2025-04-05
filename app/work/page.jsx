@@ -99,7 +99,7 @@ const projects = [
     category: "frontend",
     title: "The Venue",
     description:
-      "A one-page Musical Events Website, which is dedicated on displaying the most upcoming popular music event. It has a countdown timer, a slider, google maps i-frame and also many effects and animations.",
+      "A One-Page Musical Events Website, which is dedicated on displaying the most upcoming popular music event. It has a countdown timer, a slider, google maps i-frame and also many effects and animations.",
     stack: [
       { name: "HTML 5" },
       { name: "CSS3" },
