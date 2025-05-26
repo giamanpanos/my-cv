@@ -122,7 +122,12 @@ const projects = [
     title: "Akrokeramo",
     description:
       "A Wordpress Site about handmade ceramics with products, effects, 2 languages, map and a contact form.",
-    stack: [{ name: "HTML 5" }, { name: "CSS 3" }, { name: "Javascript" }],
+    stack: [
+      { name: "HTML 5" },
+      { name: "CSS 3" },
+      { name: "Javascript" },
+      { name: "PHP" },
+    ],
     image: "/assets/work/thumb9.webp",
     live: "https://akrokeramo.com/en/home/",
   },
