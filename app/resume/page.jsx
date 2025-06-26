@@ -55,18 +55,25 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
+  // description:
+  //   "My work experience includes the Senior WebMaster and WebMaster position in Progressplay, in which I create landing pages, emails, push and pop ups with code and also handle procedures with custom programming tools. It also consists of my experience as Junior Frontend Developer in DigitalUp, where I was creating sites and e-shops with standard CMS tools like Wordpress and Shopify and adjusting them with custom code and also managing them. Finally, it contains jobs in enterprise customer service, sales and banking legal department.",
   description:
-    "My work experience includes the Senior WebMaster and WebMaster position in Progressplay, in which I create landing pages, emails, push and pop ups with code and also handle procedures with custom programming tools. It also consists of my experience as Junior Frontend Developer in DigitalUp, where I was creating sites and e-shops with standard CMS tools like Wordpress and Shopify and adjusting them with custom code and also managing them. Finally, it contains jobs in enterprise customer service, sales and banking legal department.",
+    "My professional experience includes a role as a Frontend Developer at Progressplay till now, in which I create the content that company is displaying in all its sites with HTML, CSS & ReactJS in NextJS and work in projects for enchancing the existing systems of the company and the creation of new ones. It also consists of my experience as Junior Frontend Developer at DigitalUp, where I was creating sites and e-shops with standard CMS tools like Wordpress and Shopify and adjusting them with custom code as well as managing them. Finally, it contains jobs in enterprise customer service, sales and banking legal department.",
   items: [
+    // {
+    //   company: "ProgressPlay LTD",
+    //   position: "Senior WebMaster",
+    //   duration: "05/2024 - Present",
+    // },
+    // {
+    //   company: "ProgressPlay LTD",
+    //   position: "WebMaster",
+    //   duration: "05/2022 - 04/2024",
+    // },
     {
       company: "ProgressPlay LTD",
-      position: "Senior WebMaster",
+      position: "Frontend Developer",
       duration: "05/2024 - Present",
-    },
-    {
-      company: "ProgressPlay LTD",
-      position: "WebMaster",
-      duration: "05/2022 - 04/2024",
     },
     {
       company: "DigitalUp S.A.",
