@@ -40,7 +40,7 @@ const projects = [
     category: "frontend",
     title: "Netflix Clone",
     description:
-      "A NetFlix Clone with Movies from TMDb API, with search, add to my list and like functionality, carousels, pop up cards and modals. It also has a Video Player to watch the trailer of each movie as well as mute and similar movies feature.",
+      "A NetFlix Clone with movies from TMDb API, with search, add to my list and like functionality, carousels, pop up cards and modals. It also has a video player to watch the trailer of each movie as well as mute and similar movies feature.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind.CSS" },
